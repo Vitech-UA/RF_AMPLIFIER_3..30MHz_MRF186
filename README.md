@@ -3,4 +3,4 @@
 https://www.nxp.com/docs/en/data-sheet/MRF186.pdf
 
 # Функційна схема
-![Функційна схема](SOURCE/Функційна схема.png)
+![Функційна схема](./SOURCE/Функційна схема.png)
