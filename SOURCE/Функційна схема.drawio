@@ -1056,6 +1056,15 @@
         <mxCell id="aBj7_KUIK73mxJryg4tI-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RF_OUT" vertex="1">
           <mxGeometry height="30" width="60" x="1172" y="418.5" as="geometry" />
         </mxCell>
+        <mxCell id="IJ00lM0PafPQ4iWomT6Q-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=29;" value="UR4UUZ" vertex="1">
+          <mxGeometry height="30" width="60" x="1041" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ00lM0PafPQ4iWomT6Q-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="Vitech-UA" vertex="1">
+          <mxGeometry height="30" width="90" x="1028" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ00lM0PafPQ4iWomT6Q-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="08/2026" vertex="1">
+          <mxGeometry height="30" width="60" x="1039" y="125" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
