@@ -21,4 +21,4 @@ https://www.nxp.com/docs/en/data-sheet/MRF186.pdf
 ![Стек шарів](./MEDIA/STACK_JLC.jpg)
 
 # Розрахунок CPW
-![Стек шарів](./SOURCE/CPW.jpg)
+<img src="./SOURCE/CPW.jpg" alt="Стек шарів" width="33%">
