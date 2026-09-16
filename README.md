@@ -19,3 +19,6 @@ https://www.nxp.com/docs/en/data-sheet/MRF186.pdf
 
 # Стек-профіль JLCPCB
 ![Стек шарів](./MEDIA/STACK_JLC.jpg)
+
+# Розрахунок CPW
+![Стек шарів](./SOURCE/CPW.jpg)
