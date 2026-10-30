@@ -14,6 +14,10 @@ https://www.nxp.com/docs/en/data-sheet/MRF186.pdf
 
 ![Зовнішній вигляда](./MEDIA/IZO_2.jpg)
 
+![Зовнішній вигляда](./MEDIA/FULL_ASM.jpg)
+
+![Зовнішній вигляда](./MEDIA/FULL_ASM_2.jpg)
+
 # Стек шарів
 ![Стек шарів](./MEDIA/STACK.jpg)
 
